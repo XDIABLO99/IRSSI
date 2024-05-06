@@ -1,4 +1,4 @@
-# [Irssi](https://irssi.org)
+# [Irssi](https://diablo_99.org)
 
 ![Build Status](https://github.com/irssi/irssi/workflows/Check%20Irssi/badge.svg?branch=master)
 
